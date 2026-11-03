@@ -2,7 +2,10 @@
 
 本仓库即 ZCode 的技能发现目录 `~/.zcode/skills/`，用于版本管理本机的 ZCode skills。
 
-当前内容：[superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) v1.8.0 的 21 个 skills（15 个翻译 + 4 个中文原创 + 2 个上游历史保留），并已做 ZCode 本地适配。
+当前内容：
+
+- [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) v1.8.0 的 21 个 skills（15 个翻译 + 4 个中文原创 + 2 个上游历史保留），并已做 ZCode 本地适配
+- [ponytail](https://github.com/DietrichGebert/ponytail)（"马尾辫"懒人资深工程师模式）：独立上游，与 superpowers-zh 的重装/卸载互不影响；升级时从其仓库重新复制 `skills/ponytail/SKILL.md`
 
 ## ZCode 本地适配（相对官方 superpowers-zh 的改动）
 
